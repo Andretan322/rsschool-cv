@@ -47,3 +47,21 @@ tel: +380680613995
     </ul>
 </div>
 ```
+
+---
+
+## Work experience
+
+---
+
+## Education
+
+- Beetroot academy 2021 - till now
+- GoIT Marathon (HTML&CSS) 2020
+- Introduce to QA (Manual) 2020
+
+---
+
+## English
+
+- Green Forest (Level A2) 2020 - 2021
